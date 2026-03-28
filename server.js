@@ -1,18 +1,37 @@
 const jsonServer = require('json-server');
 const auth = require('json-server-auth');
 const cors = require('cors');
+const path = require('path');
+
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://127.0.0.1:5173',
+  'https://0130shun.github.io',
+];
 
 const app = jsonServer.create();
-const router = jsonServer.router('db.json');
+const router = jsonServer.router(path.join(__dirname, 'db.json'));
 
-app.use(cors());
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      if (!origin) return callback(null, true);
+
+      if (allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(null, false); // 不要 throw error
+      }
+    },
+  })
+);
+
 app.use(jsonServer.bodyParser);
 
-//  auth 要放在 router 前面
 app.use(auth);
 app.use(router);
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3001; // fallback
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
