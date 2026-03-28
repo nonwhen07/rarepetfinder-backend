@@ -37,6 +37,13 @@ app.use(rules);
 app.db = router.db;
 
 app.use(auth);
+app.get('/me', (req, res) => {
+  if (!req.user) {
+    return res.status(401).json({ error: 'Not authenticated' });
+  }
+
+  res.json(req.user);
+});
 app.use(router);
 
 const PORT = process.env.PORT || 3001; // fallback

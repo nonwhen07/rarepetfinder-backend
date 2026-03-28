@@ -2,7 +2,7 @@
   "users": [
     {
       "email": "admin@mail.com",
-      "password": "654321",
+      "password": "$2a$10$PyApuSkTbc7UZD6B5h4Wj.m7VyNz.jwPjrZOriqpg/jFW08H0dNgW",
       "id": 1,
       "userName": "adminUser",
       "avatar": "",
@@ -17,7 +17,7 @@
     },
     {
       "email": "testuser@mail.com",
-      "password": "123456",
+      "password": "$2a$10$ox7vxJFHL/pQocRGJfhGeORKbyUd9K1wXe/gLE1sbKSAOE78k74/C",
       "id": 2,
       "userName": "testUser",
       "avatar": "",
@@ -32,7 +32,7 @@
     },
     {
       "email": "nnnna8899@mail.com",
-      "password": "nnnna8899",
+      "password": "$2a$10$w5DkMz1rtPK8QGo1LE4sC.crMrI8CZrIdoRAKU3L.XorXwpGkK19.",
       "userName": "nnnna8899",
       "role": "user",
       "createdAt": "2026-03-27T14:30:59.333Z",
