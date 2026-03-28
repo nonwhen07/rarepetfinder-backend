@@ -34,6 +34,8 @@ const rules = auth.rewriter({
 });
 
 app.use(rules);
+app.db = router.db;
+
 app.use(auth);
 app.use(router);
 
