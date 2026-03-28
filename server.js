@@ -29,7 +29,7 @@ app.use(
 app.use(jsonServer.bodyParser);
 
 const rules = auth.rewriter({
-  users: 660,
+  users: 664,
   stores: 664,
 });
 
