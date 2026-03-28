@@ -28,6 +28,12 @@ app.use(
 
 app.use(jsonServer.bodyParser);
 
+const rules = auth.rewriter({
+  users: 660,
+  stores: 664,
+});
+
+app.use(rules);
 app.use(auth);
 app.use(router);
 
