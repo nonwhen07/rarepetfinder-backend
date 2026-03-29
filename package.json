@@ -6,11 +6,15 @@
     "node": ">=18"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.17.3",
     "json-server-auth": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
   }
 }
