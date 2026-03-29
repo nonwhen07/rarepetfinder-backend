@@ -6,28 +6,32 @@
       "userName": "123w4asdf",
       "role": "admin",
       "createdAt": "2026-03-29T01:02:13.220Z",
-      "id": 1
+      "id": 1,
+      "isActive": true
     },
     {
       "email": "testadmin@example.com",
       "password": "$2a$10$GQRvffqDeg/51NA9ZsDAueHlGPem2U2XoDl1X4zlfs3d2w147HoNS",
       "username": "testadmin",
       "role": "admin",
-      "id": 2
+      "id": 2,
+      "isActive": true
     },
     {
       "email": "te33stadmin@example.com",
       "password": "$2a$10$HGUJEyDnVAnGqQXP9C5C5O/mgUwRDsqxShNK2ktvFuz0H1moLn47G",
       "username": "te33stadmin",
       "role": "admin",
-      "id": 3
+      "id": 3,
+      "isActive": true
     },
     {
       "email": "3669admin@example.com",
       "password": "$2a$10$0d/YX7aD4Kdp628xJIYKVufSJR5TwWZJQBacK6QqrYAZAMX9I8AnK",
       "username": "3669admin",
       "role": "admin",
-      "id": 4
+      "id": 4,
+      "isActive": true
     },
     {
       "email": "admin@mail.com",
@@ -35,6 +39,7 @@
       "username": "654321",
       "role": "admin",
       "id": 5,
+      "isActive": true,
       "userName": "admin",
       "bio": "123",
       "location": "",
@@ -46,7 +51,8 @@
       "userName": "admin02",
       "role": "admin",
       "createdAt": "2026-03-29T10:40:56.435Z",
-      "id": 6
+      "id": 6,
+      "isActive": true
     },
     {
       "email": "admin03@mail.com",
@@ -54,7 +60,8 @@
       "userName": "admin03",
       "role": "admin",
       "createdAt": "2026-03-29T10:42:26.899Z",
-      "id": 7
+      "id": 7,
+      "isActive": true
     },
     {
       "email": "admin01@mail.com",
@@ -62,7 +69,8 @@
       "userName": "admin01",
       "role": "admin",
       "createdAt": "2026-03-29T12:29:28.729Z",
-      "id": 8
+      "id": 8,
+      "isActive": true
     },
     {
       "email": "nnnnss1234@mail.com",
@@ -71,6 +79,7 @@
       "role": "user",
       "createdAt": "2026-03-29T12:36:49.468Z",
       "id": 9,
+      "isActive": true,
       "bio": "喜愛鸚鵡與刺蝟、倉鼠作伴，有人有需要二手得倉鼠飼養滾輪嗎? 順手作環保~",
       "location": "嘉義",
       "favoritePetTypes": ["鸚鵡", "倉鼠"]
