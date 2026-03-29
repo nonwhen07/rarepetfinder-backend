@@ -12,7 +12,7 @@
     {
       "email": "testadmin@example.com",
       "password": "$2a$10$GQRvffqDeg/51NA9ZsDAueHlGPem2U2XoDl1X4zlfs3d2w147HoNS",
-      "username": "testadmin",
+      "userName": "testadmin",
       "role": "admin",
       "id": 2,
       "isActive": true
@@ -20,7 +20,7 @@
     {
       "email": "te33stadmin@example.com",
       "password": "$2a$10$HGUJEyDnVAnGqQXP9C5C5O/mgUwRDsqxShNK2ktvFuz0H1moLn47G",
-      "username": "te33stadmin",
+      "userName": "te33stadmin",
       "role": "admin",
       "id": 3,
       "isActive": true
@@ -28,7 +28,7 @@
     {
       "email": "3669admin@example.com",
       "password": "$2a$10$0d/YX7aD4Kdp628xJIYKVufSJR5TwWZJQBacK6QqrYAZAMX9I8AnK",
-      "username": "3669admin",
+      "userName": "3669admin",
       "role": "admin",
       "id": 4,
       "isActive": true
@@ -36,7 +36,6 @@
     {
       "email": "admin@mail.com",
       "password": "$2a$10$RsCfGRjb6IibMpmc5sZMUOaBsorDbmQngrsnjR5CVAnWmRXCPQkee",
-      "username": "654321",
       "role": "admin",
       "id": 5,
       "isActive": true,
