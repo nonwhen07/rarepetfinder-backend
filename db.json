@@ -119,8 +119,8 @@
       "website": "https://www.77shop.tw/",
       "googleMapUrl": "https://www.google.com.tw/maps/search/77%E5%AF%B5%E7%89%A9%E9%BC%A0%E6%A8%82%E5%9C%92+%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E6%B0%B8%E5%AE%89%E8%B7%AF968%E8%99%9F",
       "address": "桃園市桃園區永安路968號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.008569,
+      "lng": 121.289518
     },
     {
       "id": 2,
@@ -135,8 +135,8 @@
       "website": "https://www.facebook.com/profile.php?id=61553645532094&mibextid=uzlsIk",
       "googleMapUrl": "https://www.google.com.tw/maps/search/%E6%9F%AF%E7%88%BE%E9%B4%A8%E7%B2%BE%E5%93%81%E4%BC%91%E9%96%92%E9%A4%A8+%E6%96%B0%E5%8C%97%E5%B8%82%E6%B7%A1%E6%B0%B4%E5%8D%80%E5%A4%A7%E6%99%BA%E8%A1%9746%E5%B7%B78%E8%99%9F",
       "address": "新北市淡水區大智街46巷8號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.17394,
+      "lng": 121.442571
     },
     {
       "id": 3,
@@ -151,8 +151,8 @@
       "website": "https://www.facebook.com/p/%E6%9F%AF%E7%88%BE%E9%B4%A8%E7%B2%BE%E5%93%81%E4%BC%91%E9%96%92%E9%A4%A8-%E5%8F%B0%E4%B8%AD%E5%BA%97-61560479857611/",
       "googleMapUrl": "https://maps.app.goo.gl/gNdR3jSupw62Vg1t9",
       "address": "台中市潭子區勝利八街53巷65號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.2113,
+      "lng": 120.69817
     },
     {
       "id": 4,
@@ -167,8 +167,8 @@
       "website": "https://www.tcpetbird.com/",
       "googleMapUrl": "",
       "address": "台中市西屯區重慶路8號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.162716,
+      "lng": 120.654265
     },
     {
       "id": 5,
@@ -183,8 +183,8 @@
       "website": "https://birdclinic.com.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/EZmYjMGYWv2Q68zw5",
       "address": "台北市大同區民族西路53號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.068608,
+      "lng": 121.519164
     },
     {
       "id": 6,
@@ -199,8 +199,8 @@
       "website": "https://www.facebook.com/IAH.tw/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/TZzWNV8Q2c8Ffhyw8",
       "address": "台中市西區三民西路83號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.13074,
+      "lng": 120.6659
     },
     {
       "id": 7,
@@ -215,8 +215,8 @@
       "website": "https://www.facebook.com/hamsterssweethome/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/DFrpwahjcwu9oTSD7",
       "address": "高雄市大社區萬金路174號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.752397,
+      "lng": 120.340995
     },
     {
       "id": 8,
@@ -231,12 +231,12 @@
       "website": "https://www.facebook.com/Bravevetnew/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/e3WjyaEU3FKMFvFw9",
       "address": "台北市大同區民權西路227號",
-      "lat": 25.050323,
-      "lng": 121.378487
+      "lat": 25.063397,
+      "lng": 121.51198
     },
     {
       "id": 9,
-      "storeName": "水手兩棲爬蟲.特寵-台中西屯店",
+      "storeName": "水手兩棲爬蟲.特寵(台中西屯店)",
       "type": ["賣家"],
       "area": "台中",
       "petTypes": ["守宮", "烏龜"],
@@ -247,8 +247,8 @@
       "website": "",
       "googleMapUrl": "https://maps.app.goo.gl/mWrzQATtyFkLU9WD7",
       "address": "台中市南屯區五權西路二段380號",
-      "lat": 25.050323,
-      "lng": 121.378487
+      "lat": 24.1404106,
+      "lng": 120.645928
     },
     {
       "id": 10,
@@ -263,8 +263,8 @@
       "website": "https://www.facebook.com/sailoreptile/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/e5X6biR3oRtLHqfZ6",
       "address": "台北市大同區重慶北路三段270號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.071731,
+      "lng": 121.513584
     },
     {
       "id": 11,
@@ -279,8 +279,8 @@
       "website": "",
       "googleMapUrl": "https://maps.app.goo.gl/qq8QRWvJaqZo229bA",
       "address": "台北市南港區南港路二段20巷5號B1",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.04776,
+      "lng": 121.53185
     },
     {
       "id": 12,
@@ -295,8 +295,8 @@
       "website": "",
       "googleMapUrl": "https://maps.app.goo.gl/AsUG44bso1GZNnRr8",
       "address": "桃園市桃園區大興西路二段120號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.010925,
+      "lng": 121.29709
     },
     {
       "id": 13,
@@ -311,8 +311,8 @@
       "website": "https://www.majihouse.com/Web/index.php",
       "googleMapUrl": "https://maps.app.goo.gl/3jhVjnqHEEKDe1CCA",
       "address": "臺北市北投區西安街一段347號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.113669,
+      "lng": 121.515697
     },
     {
       "id": 14,
@@ -327,8 +327,8 @@
       "website": "https://www.facebook.com/p/%E6%B0%B8%E8%B1%90%E9%B8%9A%E9%B5%A1%E6%A8%82%E5%9C%92-100063690566757/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/KnrTyiFL2mHz9Um77",
       "address": "台北市萬華區和平西路三段58號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.034856,
+      "lng": 121.503337
     },
     {
       "id": 15,
@@ -343,8 +343,8 @@
       "website": "https://www.facebook.com/tortoies16888/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/AaxiruNZERuGtpkB6",
       "address": "新北市新莊區中正路637巷28號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.995145,
+      "lng": 121.48481
     },
     {
       "id": 16,
@@ -359,8 +359,8 @@
       "website": null,
       "googleMapUrl": "https://maps.app.goo.gl/m7fZuv6Kp2oVk4Cv7",
       "address": "台北市松山區八德路四段305號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.04917,
+      "lng": 121.566531
     },
     {
       "id": 17,
@@ -375,8 +375,8 @@
       "website": "https://www.facebook.com/p/%E5%90%89%E6%9D%BE%E9%B3%A5%E5%BA%97-40%E5%B9%B4%E8%80%81%E5%AD%97%E8%99%9F-100068528250540/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/5uNSKvNx494QRKXS6",
       "address": "台北市松山區八德路四段302號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.048999,
+      "lng": 121.56719
     },
     {
       "id": 18,
@@ -391,8 +391,8 @@
       "website": "https://www.facebook.com/p/%E6%9C%89%E9%AD%9A%E5%85%A9%E6%A3%B2%E7%88%AC%E8%9F%B2%E5%B0%88%E8%B3%A3-%E6%96%B0%E5%8C%97%E4%B8%89%E9%87%8D%E5%BA%97-100089235265231/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/DcBHohFJw5MpUxro9",
       "address": "新北市三重區光復路一段14號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.082991,
+      "lng": 121.48167
     },
     {
       "id": 19,
@@ -407,8 +407,8 @@
       "website": "https://www.facebook.com/p/%E6%9C%89%E9%AD%9A%E5%85%A9%E6%A3%B2%E7%88%AC%E8%9F%B2%E5%B0%88%E8%B3%A3-%E6%A1%83%E5%9C%92%E4%B8%AD%E5%A3%A2%E5%BA%97-100063759947641/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/7p9VZPE6xBmEQeqt7",
       "address": "桃園市中壢區環中東路718號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.955078,
+      "lng": 121.245099
     },
     {
       "id": 20,
@@ -423,8 +423,8 @@
       "website": "https://www.facebook.com/UE26907797/",
       "googleMapUrl": "https://maps.app.goo.gl/z37NPM3mRq7KKYy49",
       "address": "新北市汐止區大同路一段221號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.069378,
+      "lng": 121.659588
     },
     {
       "id": 21,
@@ -439,8 +439,8 @@
       "website": "https://www.theorcs-reptile.com/",
       "googleMapUrl": "https://maps.app.goo.gl/GgGF96ymHc6ebCJY8",
       "address": "屏東市民生路235號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.74009,
+      "lng": 120.582889
     },
     {
       "id": 22,
@@ -455,12 +455,12 @@
       "website": "https://www.facebook.com/Ponpon.Pet.hotel/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/ahbvmMF6jEiYAnkW8",
       "address": "台北市中山區新生北路二段60巷16號4樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.055645,
+      "lng": 121.526883
     },
     {
       "id": 23,
-      "storeName": "星羽動物醫院 (三民院)",
+      "storeName": "星羽動物醫院(三民院)",
       "type": ["診所"],
       "area": "高雄",
       "petTypes": ["守宮", "刺蝟", "柯爾鴨", "倉鼠", "烏龜", "鸚鵡"],
@@ -471,12 +471,12 @@
       "website": "https://starfeather.com.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/znTRKkEB7crJNN3s8",
       "address": "高雄市三民區信國路20號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.83257,
+      "lng": 121.33123
     },
     {
       "id": 24,
-      "storeName": "星羽動物醫院 (大寮院)",
+      "storeName": "星羽動物醫院(大寮院)",
       "type": ["診所"],
       "area": "高雄",
       "petTypes": ["守宮", "刺蝟", "柯爾鴨", "倉鼠", "烏龜", "鸚鵡"],
@@ -487,8 +487,8 @@
       "website": "https://starfeather.com.tw/",
       "googleMapUrl": "",
       "address": "高雄市大寮區鳳林路四段790之1號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.545645,
+      "lng": 120.411108
     },
     {
       "id": 25,
@@ -503,8 +503,8 @@
       "website": "https://www.fiordah.com/",
       "googleMapUrl": "https://maps.app.goo.gl/RVY86ArjPLEq8rbg9",
       "address": "台南市北區西門路四段442號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 23.015795,
+      "lng": 120.210591
     },
     {
       "id": 26,
@@ -518,9 +518,9 @@
       "coverImage": "clinic.png",
       "website": "https://www.tortoise-sell.com/",
       "googleMapUrl": "https://maps.app.goo.gl/npTNoqdYhbUq6Qst7",
-      "address": "嘉義縣民雄鄉75-1號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "address": "嘉義縣民雄鄉秀林村林子尾75-1號",
+      "lat": 23.5558,
+      "lng": 120.4382
     },
     {
       "id": 27,
@@ -535,8 +535,8 @@
       "website": "https://www.tp-geckos-studio.com/",
       "googleMapUrl": "https://maps.app.goo.gl/i1Nx3qctV3McdTk7",
       "address": "新北市新莊區景德路264巷16號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.03826,
+      "lng": 121.45064
     },
     {
       "id": 28,
@@ -551,8 +551,8 @@
       "website": "https://www.facebook.com/casiwaclinic/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/rdssynt7yLuXpkQ89",
       "address": "台北市大安區和平東路三段292號",
-      "lat": 25.050323,
-      "lng": 121.378487
+      "lat": 25.020942,
+      "lng": 121.556096
     },
     {
       "id": 29,
@@ -567,8 +567,8 @@
       "website": "https://www.ark.vet/",
       "googleMapUrl": "https://maps.app.goo.gl/ktZoL8xxnqK6qTYX9",
       "address": "台北市內湖區成功路四段317號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.084503,
+      "lng": 121.598605
     },
     {
       "id": 30,
@@ -583,8 +583,8 @@
       "website": "https://www.jurassiceah.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/Lo6fNhXPdFmxhNGT8",
       "address": "台中市西區英才路625號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.142001,
+      "lng": 120.666016
     },
     {
       "id": 31,
@@ -599,8 +599,8 @@
       "website": "https://pashou-reptile.com/",
       "googleMapUrl": "https://maps.app.goo.gl/FmhYhsCW77LuYQPv6",
       "address": "台中市南屯區大墩十一街171號三樓",
-      "lat": 25.050323,
-      "lng": 121.378487
+      "lat": 24.14897004,
+      "lng": 120.650778
     },
     {
       "id": 32,
@@ -615,8 +615,8 @@
       "website": "https://meetreptile.com/",
       "googleMapUrl": "https://maps.app.goo.gl/SteTetr7GN83ghsE8",
       "address": "新北市樹林區復興路86號1樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.25063,
+      "lng": 120.718115
     },
     {
       "id": 33,
@@ -631,8 +631,8 @@
       "website": "https://lumosvet.weebly.com/",
       "googleMapUrl": "https://maps.app.goo.gl/wqhEraXrbMndbvrGA",
       "address": "台北市大同區民族西路65號1樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.068614,
+      "lng": 121.518861
     },
     {
       "id": 34,
@@ -647,8 +647,8 @@
       "website": "https://www.facebook.com/profile.php?id=100063991902571&locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/LyG9aRebsHGqPxab7",
       "address": "屏東市崇朝一路192號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.679041,
+      "lng": 120.495772
     },
     {
       "id": 35,
@@ -663,8 +663,8 @@
       "website": "https://www.facebook.com/p/%E5%BA%A6%E5%BA%A6%E9%B3%A5%E7%89%B9%E6%AE%8A%E5%AF%B5%E7%89%A9%E5%B0%88%E7%A7%91%E9%86%AB%E9%99%A2-100075739882784/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/fv2V17D5WRucvapRA",
       "address": "新竹縣竹北市中正東路228號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.8351428,
+      "lng": 121.0140302
     },
     {
       "id": 36,
@@ -679,12 +679,12 @@
       "website": "https://wild-ah.com/",
       "googleMapUrl": "https://maps.app.goo.gl/6oZNMPZAj2bsA2GE7",
       "address": "新北市樹林區中山路一段26-3號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.110134,
+      "lng": 120.643725
     },
     {
       "id": 37,
-      "storeName": "宸禧園珍禽繁殖場",
+      "storeName": "宸禧園珍禽繁殖場(不開放參觀,線上詢問)",
       "type": ["賣家"],
       "area": "桃園",
       "petTypes": ["柯爾鴨"],
@@ -694,9 +694,9 @@
       "coverImage": "Shop.png",
       "website": "http://www.cxpetpark.com/",
       "googleMapUrl": "https://maps.app.goo.gl/fJq2tQeL7S7fbnScA",
-      "address": "桃園市龍潭區(不開放參觀,線上詢問)",
-      "lat": 24.8316315,
-      "lng": 121.1904922
+      "address": "桃園市龍潭區",
+      "lat": 24.863851,
+      "lng": 121.216392
     },
     {
       "id": 38,
@@ -711,8 +711,8 @@
       "website": "http://meah.tw/#",
       "googleMapUrl": "https://maps.app.goo.gl/zvo6R5kDomDkvYQV6",
       "address": "新竹縣竹北市自強六街15號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.047305,
+      "lng": 121.086959
     },
     {
       "id": 39,
@@ -727,8 +727,8 @@
       "website": "https://www.madagascar.com.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/egHKhDhX4rohZTif8",
       "address": "新北市板橋區文化路二段500號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.036091,
+      "lng": 121.480503
     },
     {
       "id": 40,
@@ -743,8 +743,8 @@
       "website": "https://doubleslow43.easy.co/",
       "googleMapUrl": "https://maps.app.goo.gl/xj99R9WyhoJq8Awv7",
       "address": "新北市永和區豫溪街72號1樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.64023,
+      "lng": 120.92669
     },
     {
       "id": 41,
@@ -759,8 +759,8 @@
       "website": "https://www.facebook.com/momomiss127/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/EtBA6dogEkeEXuE9",
       "address": "新北市樹林區保安二街127號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.27028,
+      "lng": 120.7275
     },
     {
       "id": 42,
@@ -775,8 +775,8 @@
       "website": "https://www.yununggecko.com/",
       "googleMapUrl": "https://maps.app.goo.gl/xFYqYRbwrfAsEm379",
       "address": "高雄市林園區港埔三路112巷2號1樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.497184,
+      "lng": 120.384108
     },
     {
       "id": 43,
@@ -791,8 +791,8 @@
       "website": "https://turtle-adb.com.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/eiC1RFKV928dwDuk6",
       "address": "新北市林口區源泉街41號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.071043,
+      "lng": 121.353271
     },
     {
       "id": 44,
@@ -807,8 +807,8 @@
       "website": "https://www.facebook.com/p/%E5%BB%A3%E8%88%88%E9%B3%A5%E5%9C%92-100063778106260/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/5SkLVuHZg3BRzhyD8",
       "address": "彰化縣花壇鄉中山路二段802號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.0837381,
+      "lng": 120.5513155
     },
     {
       "id": 45,
@@ -823,8 +823,8 @@
       "website": "https://www.facebook.com/chengyi171/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/XXgo11nU1JCKb9Za8",
       "address": "台北市大安區安和路一段171巷13號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 23.84084,
+      "lng": 120.59716
     },
     {
       "id": 46,
@@ -839,8 +839,8 @@
       "website": "https://www.facebook.com/profile.php?id=100083579970035",
       "googleMapUrl": "https://maps.app.goo.gl/RcosRh1NK4CMmWs8",
       "address": "台北市信義區松山路229號1樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.044686,
+      "lng": 121.577944
     },
     {
       "id": 47,
@@ -855,8 +855,8 @@
       "website": "https://www.piggybabiesbnb.com/",
       "googleMapUrl": "https://maps.app.goo.gl/QUKqXwUYJ6vcJcq77",
       "address": "新竹縣竹市成功一街160號一樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.819865,
+      "lng": 121.026032
     },
     {
       "id": 48,
@@ -871,8 +871,8 @@
       "website": "https://www.turtlehouse.com.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/8ZYNeGW8ph93ZXdm6",
       "address": "新北市新莊區新樹路252號之2",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.09453,
+      "lng": 120.53351
     },
     {
       "id": 49,
@@ -887,8 +887,8 @@
       "website": "https://www.facebook.com/MomongaAH/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/XMzLCyVWoSvGrkPu5",
       "address": "新北市三重區重新路四段20號1樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.939017,
+      "lng": 121.371853
     },
     {
       "id": 50,
@@ -903,8 +903,8 @@
       "website": "https://www.facebook.com/K2Petbird/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/wGCFQ9r6sP4naG3a8",
       "address": "新北市板橋區金門街209號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.969733,
+      "lng": 121.300903
     },
     {
       "id": 51,
@@ -919,8 +919,8 @@
       "website": "https://www.parrothotel.com.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/anPS6yYRBysvnTY7",
       "address": "新北市新店區中正路504號4樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.95777,
+      "lng": 121.213009
     },
     {
       "id": 52,
@@ -935,12 +935,12 @@
       "website": "https://parrotwu.waca.tw/",
       "googleMapUrl": "https://maps.app.goo.gl/4dPdTzh6CC7ZX6nG6",
       "address": "新北市蘆洲區光復路77巷5號1樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.086216,
+      "lng": 121.463798
     },
     {
       "id": 53,
-      "storeName": "鸚鵡的家【台南館】",
+      "storeName": "鸚鵡的家(台南館)",
       "type": ["賣家", "旅館"],
       "area": "台南",
       "petTypes": ["鸚鵡"],
@@ -951,8 +951,8 @@
       "website": "https://www.facebook.com/Parrot.Tw/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/rTx1Tf1npREFJAKw9",
       "address": "台南市新營區民治路183巷2號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.126353,
+      "lng": 121.4713846
     },
     {
       "id": 54,
@@ -967,8 +967,8 @@
       "website": "https://www.facebook.com/higogohotel/?locale=zh_TW",
       "googleMapUrl": "https://maps.app.goo.gl/Y9Toocmgm3JJ8wo8",
       "address": "台北市內湖區星雲街20號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.077927,
+      "lng": 121.590678
     },
     {
       "id": 55,
@@ -983,8 +983,8 @@
       "website": "https://www.rkreptile.com/",
       "googleMapUrl": "https://maps.app.goo.gl/yEhYs1EUjFZwUN2K7",
       "address": "台中市西屯區黎明路一段961號2樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.136003,
+      "lng": 120.636636
     },
     {
       "id": 56,
@@ -999,8 +999,8 @@
       "website": "https://www.taogeckos.com/",
       "googleMapUrl": "https://maps.app.goo.gl/W783457FPJjoAx6w5",
       "address": "新北市永和區永亨路46號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.64023,
+      "lng": 120.92669
     },
     {
       "id": 57,
@@ -1015,8 +1015,8 @@
       "website": "https://www.facebook.com/p/Smile-%E5%BE%AE%E7%AC%91%E5%AF%B5%E7%89%A9%E7%BE%8E%E5%AE%B9%E6%97%85%E9%A4%A8-61557536859954/",
       "googleMapUrl": "https://share.google/8Z6G8tjjlb1DIh80P",
       "address": "苗栗縣頭份市自強路二段530號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.682641,
+      "lng": 120.883918
     },
     {
       "id": 58,
@@ -1031,8 +1031,8 @@
       "website": "https://www.facebook.com/p/%E8%A7%92%E8%90%BD%E6%A3%AE%E6%9E%97%E7%89%B9%E5%AF%B5%E7%B2%BE%E5%93%81%E6%97%85%E5%BA%97-100076200663692/?locale=zh_TW",
       "googleMapUrl": "https://share.google/7Q7btX0y3jjmnXcPX",
       "address": "桃園市中壢區環西路二段220號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 24.964413,
+      "lng": 121.211397
     },
     {
       "id": 59,
@@ -1047,8 +1047,8 @@
       "website": "https://www.facebook.com/hamsterfun22/",
       "googleMapUrl": "https://share.google/ZTqI5FDuhXqC2Rnn3",
       "address": "台南市安南區安昌街174巷191弄111號3樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 23.068207,
+      "lng": 120.221274
     },
     {
       "id": 60,
@@ -1063,8 +1063,8 @@
       "website": "https://www.facebook.com/appletree.parrottree/",
       "googleMapUrl": "https://share.google/D3gmbnksUyXE9AO6e",
       "address": "高雄市路竹區社龍街63號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.861616,
+      "lng": 120.26485
     },
     {
       "id": 61,
@@ -1079,8 +1079,8 @@
       "website": "https://www.parrotempire.com.tw/",
       "googleMapUrl": "https://share.google/BMvf23KEUtKVSXxxM",
       "address": "高雄市湖內區中山路一段477之2號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.887525,
+      "lng": 120.243275
     },
     {
       "id": 62,
@@ -1095,8 +1095,8 @@
       "website": "https://www.facebook.com/Parrot.Tw/?locale=zh_TW",
       "googleMapUrl": "https://share.google/RZp1Za0cOqoLGo3a3",
       "address": "高雄市鳳山區過勇路40號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.586082,
+      "lng": 120.362878
     },
     {
       "id": 63,
@@ -1111,8 +1111,8 @@
       "website": "https://www.instagram.com/_south_turtle/",
       "googleMapUrl": "",
       "address": "台南市仁德區",
-      "lat": 22.9280775,
-      "lng": 120.2432793
+      "lat": 22.972212,
+      "lng": 120.25152
     },
     {
       "id": 64,
@@ -1127,8 +1127,8 @@
       "website": "https://www.facebook.com/p/%E5%B9%B8%E7%A6%8F%E7%A8%AE%E5%AD%90%E5%AF%B5%E7%89%A9%E6%B2%99%E9%BE%8D%E9%B9%BD%E8%A1%8C%E5%BA%97%E7%89%B9%E5%AF%B5%E6%A5%AD%E5%AD%97%E7%AC%AC-U1080452%E8%99%9F-100064016230481/",
       "googleMapUrl": "https://share.google/bTEOSfp1BywNw5GhB",
       "address": "台南市永康區中正南路636號",
-      "lat": 25.050323,
-      "lng": 121.378487
+      "lat": 23.038514,
+      "lng": 120.234077
     },
     {
       "id": 65,
@@ -1143,12 +1143,12 @@
       "website": "https://www.kissherpet-hotel.com/",
       "googleMapUrl": "https://share.google/kdUG9USYaPnnR7q0V",
       "address": "高雄市左營區大中二路262號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.680193,
+      "lng": 120.312504
     },
     {
       "id": 66,
-      "storeName": "沐沐家♡",
+      "storeName": "沐沐家♡(詳細地址私訊)",
       "type": ["旅館"],
       "area": "屏東",
       "petTypes": ["倉鼠"],
@@ -1158,9 +1158,9 @@
       "coverImage": "hotel.png",
       "website": "https://www.instagram.com/mmngt_1996?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D",
       "googleMapUrl": "",
-      "address": "屏東(詳細地址私訊)",
-      "lat": 23.4587289,
-      "lng": 120.4724074
+      "address": "屏東縣",
+      "lat": 23.1538339,
+      "lng": 120.638983
     },
     {
       "id": 67,
@@ -1175,8 +1175,8 @@
       "website": "https://www.facebook.com/hamsterssweethome/?locale=zh_TW",
       "googleMapUrl": "https://share.google/C9tSL3vZBexAWwd30",
       "address": "高雄市大社區萬金路174號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.752397,
+      "lng": 120.340995
     },
     {
       "id": 68,
@@ -1191,8 +1191,8 @@
       "website": "https://www.facebook.com/callduckgarden/?locale=zh_TW",
       "googleMapUrl": "",
       "address": "高雄市大社區萬金路174號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 22.752397,
+      "lng": 120.340995
     },
     {
       "id": 69,
@@ -1207,8 +1207,8 @@
       "website": "https://www.facebook.com/callduckgarden/?locale=zh_TW",
       "googleMapUrl": "https://share.google/xjyHkX7QESddkQvyq",
       "address": "新北市板橋區館前西路120號二、三、四樓",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 25.01045,
+      "lng": 121.461379
     },
     {
       "id": 70,
@@ -1223,8 +1223,8 @@
       "website": "https://www.facebook.com/ChiaYi.Jia.le.animal.hospital/?locale=zh_TW",
       "googleMapUrl": "https://share.google/KPbpAqdQybtGLixuu",
       "address": "嘉義市東區民族路67號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 23.31215,
+      "lng": 120.318391
     },
     {
       "id": 71,
@@ -1239,8 +1239,8 @@
       "website": "https://mascot-animal.com/",
       "googleMapUrl": "https://maps.app.goo.gl/BmkNjBkQsq35DQe9A",
       "address": "嘉義市東區大雅路二段563-5號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 23.477278,
+      "lng": 120.468629
     },
     {
       "id": 72,
@@ -1255,8 +1255,8 @@
       "website": "https://website.ncyu.edu.tw/ncyuvh/",
       "googleMapUrl": "https://share.google/3xjMpzpKevldPPnGn",
       "address": "嘉義市東區民族路67號",
-      "lat": 25.054775,
-      "lng": 121.522199
+      "lat": 23.31215,
+      "lng": 120.318391
     }
   ],
   "favorites": [
