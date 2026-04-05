@@ -120,7 +120,8 @@
       "googleMapUrl": "https://www.google.com.tw/maps/search/77%E5%AF%B5%E7%89%A9%E9%BC%A0%E6%A8%82%E5%9C%92+%E6%A1%83%E5%9C%92%E5%B8%82%E6%A1%83%E5%9C%92%E5%8D%80%E6%B0%B8%E5%AE%89%E8%B7%AF968%E8%99%9F",
       "address": "桃園市桃園區永安路968號",
       "lat": 25.008569,
-      "lng": 121.289518
+      "lng": 121.289518,
+      "isActive": true
     },
     {
       "id": 2,
@@ -136,7 +137,8 @@
       "googleMapUrl": "https://www.google.com.tw/maps/search/%E6%9F%AF%E7%88%BE%E9%B4%A8%E7%B2%BE%E5%93%81%E4%BC%91%E9%96%92%E9%A4%A8+%E6%96%B0%E5%8C%97%E5%B8%82%E6%B7%A1%E6%B0%B4%E5%8D%80%E5%A4%A7%E6%99%BA%E8%A1%9746%E5%B7%B78%E8%99%9F",
       "address": "新北市淡水區大智街46巷8號",
       "lat": 25.17394,
-      "lng": 121.442571
+      "lng": 121.442571,
+      "isActive": true
     },
     {
       "id": 3,
@@ -152,7 +154,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/gNdR3jSupw62Vg1t9",
       "address": "台中市潭子區勝利八街53巷65號",
       "lat": 24.2113,
-      "lng": 120.69817
+      "lng": 120.69817,
+      "isActive": true
     },
     {
       "id": 4,
@@ -168,7 +171,8 @@
       "googleMapUrl": "",
       "address": "台中市西屯區重慶路8號",
       "lat": 24.162716,
-      "lng": 120.654265
+      "lng": 120.654265,
+      "isActive": true
     },
     {
       "id": 5,
@@ -184,7 +188,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/EZmYjMGYWv2Q68zw5",
       "address": "台北市大同區民族西路53號",
       "lat": 25.068608,
-      "lng": 121.519164
+      "lng": 121.519164,
+      "isActive": true
     },
     {
       "id": 6,
@@ -200,7 +205,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/TZzWNV8Q2c8Ffhyw8",
       "address": "台中市西區三民西路83號",
       "lat": 24.13074,
-      "lng": 120.6659
+      "lng": 120.6659,
+      "isActive": true
     },
     {
       "id": 7,
@@ -216,7 +222,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/DFrpwahjcwu9oTSD7",
       "address": "高雄市大社區萬金路174號",
       "lat": 22.752397,
-      "lng": 120.340995
+      "lng": 120.340995,
+      "isActive": true
     },
     {
       "id": 8,
@@ -232,7 +239,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/e3WjyaEU3FKMFvFw9",
       "address": "台北市大同區民權西路227號",
       "lat": 25.063397,
-      "lng": 121.51198
+      "lng": 121.51198,
+      "isActive": true
     },
     {
       "id": 9,
@@ -248,7 +256,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/mWrzQATtyFkLU9WD7",
       "address": "台中市南屯區五權西路二段380號",
       "lat": 24.1404106,
-      "lng": 120.645928
+      "lng": 120.645928,
+      "isActive": true
     },
     {
       "id": 10,
@@ -264,7 +273,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/e5X6biR3oRtLHqfZ6",
       "address": "台北市大同區重慶北路三段270號",
       "lat": 25.071731,
-      "lng": 121.513584
+      "lng": 121.513584,
+      "isActive": true
     },
     {
       "id": 11,
@@ -280,7 +290,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/qq8QRWvJaqZo229bA",
       "address": "台北市南港區南港路二段20巷5號B1",
       "lat": 25.04776,
-      "lng": 121.53185
+      "lng": 121.53185,
+      "isActive": true
     },
     {
       "id": 12,
@@ -296,7 +307,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/AsUG44bso1GZNnRr8",
       "address": "桃園市桃園區大興西路二段120號",
       "lat": 25.010925,
-      "lng": 121.29709
+      "lng": 121.29709,
+      "isActive": true
     },
     {
       "id": 13,
@@ -312,7 +324,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/3jhVjnqHEEKDe1CCA",
       "address": "臺北市北投區西安街一段347號",
       "lat": 25.113669,
-      "lng": 121.515697
+      "lng": 121.515697,
+      "isActive": true
     },
     {
       "id": 14,
@@ -328,7 +341,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/KnrTyiFL2mHz9Um77",
       "address": "台北市萬華區和平西路三段58號",
       "lat": 25.034856,
-      "lng": 121.503337
+      "lng": 121.503337,
+      "isActive": true
     },
     {
       "id": 15,
@@ -344,7 +358,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/AaxiruNZERuGtpkB6",
       "address": "新北市新莊區中正路637巷28號",
       "lat": 24.995145,
-      "lng": 121.48481
+      "lng": 121.48481,
+      "isActive": true
     },
     {
       "id": 16,
@@ -360,7 +375,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/m7fZuv6Kp2oVk4Cv7",
       "address": "台北市松山區八德路四段305號",
       "lat": 25.04917,
-      "lng": 121.566531
+      "lng": 121.566531,
+      "isActive": true
     },
     {
       "id": 17,
@@ -376,7 +392,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/5uNSKvNx494QRKXS6",
       "address": "台北市松山區八德路四段302號",
       "lat": 25.048999,
-      "lng": 121.56719
+      "lng": 121.56719,
+      "isActive": true
     },
     {
       "id": 18,
@@ -392,7 +409,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/DcBHohFJw5MpUxro9",
       "address": "新北市三重區光復路一段14號",
       "lat": 25.082991,
-      "lng": 121.48167
+      "lng": 121.48167,
+      "isActive": true
     },
     {
       "id": 19,
@@ -408,7 +426,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/7p9VZPE6xBmEQeqt7",
       "address": "桃園市中壢區環中東路718號",
       "lat": 24.955078,
-      "lng": 121.245099
+      "lng": 121.245099,
+      "isActive": true
     },
     {
       "id": 20,
@@ -424,7 +443,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/z37NPM3mRq7KKYy49",
       "address": "新北市汐止區大同路一段221號",
       "lat": 25.069378,
-      "lng": 121.659588
+      "lng": 121.659588,
+      "isActive": true
     },
     {
       "id": 21,
@@ -440,7 +460,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/GgGF96ymHc6ebCJY8",
       "address": "屏東市民生路235號",
       "lat": 22.74009,
-      "lng": 120.582889
+      "lng": 120.582889,
+      "isActive": true
     },
     {
       "id": 22,
@@ -456,7 +477,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/ahbvmMF6jEiYAnkW8",
       "address": "台北市中山區新生北路二段60巷16號4樓",
       "lat": 25.055645,
-      "lng": 121.526883
+      "lng": 121.526883,
+      "isActive": true
     },
     {
       "id": 23,
@@ -472,7 +494,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/znTRKkEB7crJNN3s8",
       "address": "高雄市三民區信國路20號",
       "lat": 24.83257,
-      "lng": 121.33123
+      "lng": 121.33123,
+      "isActive": true
     },
     {
       "id": 24,
@@ -488,7 +511,8 @@
       "googleMapUrl": "",
       "address": "高雄市大寮區鳳林路四段790之1號",
       "lat": 22.545645,
-      "lng": 120.411108
+      "lng": 120.411108,
+      "isActive": true
     },
     {
       "id": 25,
@@ -504,7 +528,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/RVY86ArjPLEq8rbg9",
       "address": "台南市北區西門路四段442號",
       "lat": 23.015795,
-      "lng": 120.210591
+      "lng": 120.210591,
+      "isActive": true
     },
     {
       "id": 26,
@@ -520,7 +545,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/npTNoqdYhbUq6Qst7",
       "address": "嘉義縣民雄鄉秀林村林子尾75-1號",
       "lat": 23.5558,
-      "lng": 120.4382
+      "lng": 120.4382,
+      "isActive": true
     },
     {
       "id": 27,
@@ -536,7 +562,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/i1Nx3qctV3McdTk7",
       "address": "新北市新莊區景德路264巷16號",
       "lat": 25.03826,
-      "lng": 121.45064
+      "lng": 121.45064,
+      "isActive": true
     },
     {
       "id": 28,
@@ -552,7 +579,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/rdssynt7yLuXpkQ89",
       "address": "台北市大安區和平東路三段292號",
       "lat": 25.020942,
-      "lng": 121.556096
+      "lng": 121.556096,
+      "isActive": true
     },
     {
       "id": 29,
@@ -568,7 +596,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/ktZoL8xxnqK6qTYX9",
       "address": "台北市內湖區成功路四段317號",
       "lat": 25.084503,
-      "lng": 121.598605
+      "lng": 121.598605,
+      "isActive": true
     },
     {
       "id": 30,
@@ -584,7 +613,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/Lo6fNhXPdFmxhNGT8",
       "address": "台中市西區英才路625號",
       "lat": 24.142001,
-      "lng": 120.666016
+      "lng": 120.666016,
+      "isActive": true
     },
     {
       "id": 31,
@@ -600,7 +630,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/FmhYhsCW77LuYQPv6",
       "address": "台中市南屯區大墩十一街171號三樓",
       "lat": 24.14897004,
-      "lng": 120.650778
+      "lng": 120.650778,
+      "isActive": true
     },
     {
       "id": 32,
@@ -616,7 +647,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/SteTetr7GN83ghsE8",
       "address": "新北市樹林區復興路86號1樓",
       "lat": 24.25063,
-      "lng": 120.718115
+      "lng": 120.718115,
+      "isActive": true
     },
     {
       "id": 33,
@@ -632,7 +664,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/wqhEraXrbMndbvrGA",
       "address": "台北市大同區民族西路65號1樓",
       "lat": 25.068614,
-      "lng": 121.518861
+      "lng": 121.518861,
+      "isActive": true
     },
     {
       "id": 34,
@@ -648,7 +681,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/LyG9aRebsHGqPxab7",
       "address": "屏東市崇朝一路192號",
       "lat": 22.679041,
-      "lng": 120.495772
+      "lng": 120.495772,
+      "isActive": true
     },
     {
       "id": 35,
@@ -664,7 +698,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/fv2V17D5WRucvapRA",
       "address": "新竹縣竹北市中正東路228號",
       "lat": 24.8351428,
-      "lng": 121.0140302
+      "lng": 121.0140302,
+      "isActive": true
     },
     {
       "id": 36,
@@ -680,7 +715,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/6oZNMPZAj2bsA2GE7",
       "address": "新北市樹林區中山路一段26-3號",
       "lat": 24.110134,
-      "lng": 120.643725
+      "lng": 120.643725,
+      "isActive": true
     },
     {
       "id": 37,
@@ -696,7 +732,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/fJq2tQeL7S7fbnScA",
       "address": "桃園市龍潭區",
       "lat": 24.863851,
-      "lng": 121.216392
+      "lng": 121.216392,
+      "isActive": true
     },
     {
       "id": 38,
@@ -712,7 +749,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/zvo6R5kDomDkvYQV6",
       "address": "新竹縣竹北市自強六街15號",
       "lat": 25.047305,
-      "lng": 121.086959
+      "lng": 121.086959,
+      "isActive": true
     },
     {
       "id": 39,
@@ -728,7 +766,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/egHKhDhX4rohZTif8",
       "address": "新北市板橋區文化路二段500號",
       "lat": 25.036091,
-      "lng": 121.480503
+      "lng": 121.480503,
+      "isActive": true
     },
     {
       "id": 40,
@@ -744,7 +783,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/xj99R9WyhoJq8Awv7",
       "address": "新北市永和區豫溪街72號1樓",
       "lat": 24.64023,
-      "lng": 120.92669
+      "lng": 120.92669,
+      "isActive": true
     },
     {
       "id": 41,
@@ -760,7 +800,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/EtBA6dogEkeEXuE9",
       "address": "新北市樹林區保安二街127號",
       "lat": 24.27028,
-      "lng": 120.7275
+      "lng": 120.7275,
+      "isActive": true
     },
     {
       "id": 42,
@@ -776,7 +817,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/xFYqYRbwrfAsEm379",
       "address": "高雄市林園區港埔三路112巷2號1樓",
       "lat": 22.497184,
-      "lng": 120.384108
+      "lng": 120.384108,
+      "isActive": true
     },
     {
       "id": 43,
@@ -792,7 +834,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/eiC1RFKV928dwDuk6",
       "address": "新北市林口區源泉街41號",
       "lat": 25.071043,
-      "lng": 121.353271
+      "lng": 121.353271,
+      "isActive": true
     },
     {
       "id": 44,
@@ -808,7 +851,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/5SkLVuHZg3BRzhyD8",
       "address": "彰化縣花壇鄉中山路二段802號",
       "lat": 24.0837381,
-      "lng": 120.5513155
+      "lng": 120.5513155,
+      "isActive": true
     },
     {
       "id": 45,
@@ -824,7 +868,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/XXgo11nU1JCKb9Za8",
       "address": "台北市大安區安和路一段171巷13號",
       "lat": 23.84084,
-      "lng": 120.59716
+      "lng": 120.59716,
+      "isActive": true
     },
     {
       "id": 46,
@@ -840,7 +885,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/RcosRh1NK4CMmWs8",
       "address": "台北市信義區松山路229號1樓",
       "lat": 25.044686,
-      "lng": 121.577944
+      "lng": 121.577944,
+      "isActive": true
     },
     {
       "id": 47,
@@ -856,7 +902,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/QUKqXwUYJ6vcJcq77",
       "address": "新竹縣竹市成功一街160號一樓",
       "lat": 24.819865,
-      "lng": 121.026032
+      "lng": 121.026032,
+      "isActive": true
     },
     {
       "id": 48,
@@ -872,7 +919,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/8ZYNeGW8ph93ZXdm6",
       "address": "新北市新莊區新樹路252號之2",
       "lat": 24.09453,
-      "lng": 120.53351
+      "lng": 120.53351,
+      "isActive": true
     },
     {
       "id": 49,
@@ -888,7 +936,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/XMzLCyVWoSvGrkPu5",
       "address": "新北市三重區重新路四段20號1樓",
       "lat": 24.939017,
-      "lng": 121.371853
+      "lng": 121.371853,
+      "isActive": true
     },
     {
       "id": 50,
@@ -904,7 +953,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/wGCFQ9r6sP4naG3a8",
       "address": "新北市板橋區金門街209號",
       "lat": 24.969733,
-      "lng": 121.300903
+      "lng": 121.300903,
+      "isActive": true
     },
     {
       "id": 51,
@@ -920,7 +970,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/anPS6yYRBysvnTY7",
       "address": "新北市新店區中正路504號4樓",
       "lat": 24.95777,
-      "lng": 121.213009
+      "lng": 121.213009,
+      "isActive": true
     },
     {
       "id": 52,
@@ -936,7 +987,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/4dPdTzh6CC7ZX6nG6",
       "address": "新北市蘆洲區光復路77巷5號1樓",
       "lat": 25.086216,
-      "lng": 121.463798
+      "lng": 121.463798,
+      "isActive": true
     },
     {
       "id": 53,
@@ -952,7 +1004,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/rTx1Tf1npREFJAKw9",
       "address": "台南市新營區民治路183巷2號",
       "lat": 25.126353,
-      "lng": 121.4713846
+      "lng": 121.4713846,
+      "isActive": true
     },
     {
       "id": 54,
@@ -968,7 +1021,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/Y9Toocmgm3JJ8wo8",
       "address": "台北市內湖區星雲街20號",
       "lat": 25.077927,
-      "lng": 121.590678
+      "lng": 121.590678,
+      "isActive": true
     },
     {
       "id": 55,
@@ -984,7 +1038,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/yEhYs1EUjFZwUN2K7",
       "address": "台中市西屯區黎明路一段961號2樓",
       "lat": 24.136003,
-      "lng": 120.636636
+      "lng": 120.636636,
+      "isActive": true
     },
     {
       "id": 56,
@@ -1000,7 +1055,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/W783457FPJjoAx6w5",
       "address": "新北市永和區永亨路46號",
       "lat": 24.64023,
-      "lng": 120.92669
+      "lng": 120.92669,
+      "isActive": true
     },
     {
       "id": 57,
@@ -1016,7 +1072,8 @@
       "googleMapUrl": "https://share.google/8Z6G8tjjlb1DIh80P",
       "address": "苗栗縣頭份市自強路二段530號",
       "lat": 24.682641,
-      "lng": 120.883918
+      "lng": 120.883918,
+      "isActive": true
     },
     {
       "id": 58,
@@ -1032,7 +1089,8 @@
       "googleMapUrl": "https://share.google/7Q7btX0y3jjmnXcPX",
       "address": "桃園市中壢區環西路二段220號",
       "lat": 24.964413,
-      "lng": 121.211397
+      "lng": 121.211397,
+      "isActive": true
     },
     {
       "id": 59,
@@ -1048,7 +1106,8 @@
       "googleMapUrl": "https://share.google/ZTqI5FDuhXqC2Rnn3",
       "address": "台南市安南區安昌街174巷191弄111號3樓",
       "lat": 23.068207,
-      "lng": 120.221274
+      "lng": 120.221274,
+      "isActive": true
     },
     {
       "id": 60,
@@ -1064,7 +1123,8 @@
       "googleMapUrl": "https://share.google/D3gmbnksUyXE9AO6e",
       "address": "高雄市路竹區社龍街63號",
       "lat": 22.861616,
-      "lng": 120.26485
+      "lng": 120.26485,
+      "isActive": true
     },
     {
       "id": 61,
@@ -1080,7 +1140,8 @@
       "googleMapUrl": "https://share.google/BMvf23KEUtKVSXxxM",
       "address": "高雄市湖內區中山路一段477之2號",
       "lat": 22.887525,
-      "lng": 120.243275
+      "lng": 120.243275,
+      "isActive": true
     },
     {
       "id": 62,
@@ -1096,7 +1157,8 @@
       "googleMapUrl": "https://share.google/RZp1Za0cOqoLGo3a3",
       "address": "高雄市鳳山區過勇路40號",
       "lat": 22.586082,
-      "lng": 120.362878
+      "lng": 120.362878,
+      "isActive": true
     },
     {
       "id": 63,
@@ -1112,7 +1174,8 @@
       "googleMapUrl": "",
       "address": "台南市仁德區",
       "lat": 22.972212,
-      "lng": 120.25152
+      "lng": 120.25152,
+      "isActive": false
     },
     {
       "id": 64,
@@ -1128,7 +1191,8 @@
       "googleMapUrl": "https://share.google/bTEOSfp1BywNw5GhB",
       "address": "台南市永康區中正南路636號",
       "lat": 23.038514,
-      "lng": 120.234077
+      "lng": 120.234077,
+      "isActive": true
     },
     {
       "id": 65,
@@ -1144,7 +1208,8 @@
       "googleMapUrl": "https://share.google/kdUG9USYaPnnR7q0V",
       "address": "高雄市左營區大中二路262號",
       "lat": 22.680193,
-      "lng": 120.312504
+      "lng": 120.312504,
+      "isActive": true
     },
     {
       "id": 66,
@@ -1176,7 +1241,8 @@
       "googleMapUrl": "https://share.google/C9tSL3vZBexAWwd30",
       "address": "高雄市大社區萬金路174號",
       "lat": 22.752397,
-      "lng": 120.340995
+      "lng": 120.340995,
+      "isActive": true
     },
     {
       "id": 68,
@@ -1192,7 +1258,8 @@
       "googleMapUrl": "",
       "address": "高雄市大社區萬金路174號",
       "lat": 22.752397,
-      "lng": 120.340995
+      "lng": 120.340995,
+      "isActive": true
     },
     {
       "id": 69,
@@ -1208,7 +1275,8 @@
       "googleMapUrl": "https://share.google/xjyHkX7QESddkQvyq",
       "address": "新北市板橋區館前西路120號二、三、四樓",
       "lat": 25.01045,
-      "lng": 121.461379
+      "lng": 121.461379,
+      "isActive": true
     },
     {
       "id": 70,
@@ -1224,7 +1292,8 @@
       "googleMapUrl": "https://share.google/KPbpAqdQybtGLixuu",
       "address": "嘉義市東區民族路67號",
       "lat": 23.31215,
-      "lng": 120.318391
+      "lng": 120.318391,
+      "isActive": true
     },
     {
       "id": 71,
@@ -1240,7 +1309,8 @@
       "googleMapUrl": "https://maps.app.goo.gl/BmkNjBkQsq35DQe9A",
       "address": "嘉義市東區大雅路二段563-5號",
       "lat": 23.477278,
-      "lng": 120.468629
+      "lng": 120.468629,
+      "isActive": false
     },
     {
       "id": 72,
@@ -1256,7 +1326,8 @@
       "googleMapUrl": "https://share.google/3xjMpzpKevldPPnGn",
       "address": "嘉義市東區民族路67號",
       "lat": 23.31215,
-      "lng": 120.318391
+      "lng": 120.318391,
+      "isActive": true
     }
   ],
   "favorites": [
